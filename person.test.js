@@ -1,1 +1,0 @@
-import person from "person"

@@ -1,9 +1,8 @@
 {
-  "type": "module",
   "name": "npm",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -13,9 +12,10 @@
     "express": "^4.18.1",
     "file": "^0.2.2",
     "fs": "^0.0.1-security",
-    "jest": "^29.1.2",
-    "module": "^1.2.5",
     "node": "^18.10.0",
     "system": "^2.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
   }
 }
